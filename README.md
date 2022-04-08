@@ -1,3 +1,4 @@
 # Welcome to my Org
-Keep learning ~
-![WechatIMG60](https://user-images.githubusercontent.com/102853938/162398441-d38f2b05-d6f0-42c0-b672-088a4d17d0c9.jpeg)
+Keep learning ~~
+
+![WechatIMG60 copy](https://user-images.githubusercontent.com/102853938/162399455-b991bf7a-67af-4e28-833b-59a82d099472.jpeg)
